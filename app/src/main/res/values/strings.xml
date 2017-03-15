@@ -5,7 +5,7 @@
   -->
 
 <resources>
-    <string name="app_name">LoginLogout</string>
+    <string name="app_name">Login Module</string>
     <string name="etUsername">Username</string>
     <string name="etPassword">Password</string>
     <string name="btnLogin">Login</string>
